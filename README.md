@@ -1,2 +1,2 @@
 # AI-image-generator
-This is my firt ai app
+This is my first ai app
